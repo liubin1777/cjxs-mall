@@ -9,5 +9,5 @@ export default {
 export const ToStorybook = () => <App />;
 
 ToStorybook.story = {
-  name: 'App',
+  name: 'App123',
 };
